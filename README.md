@@ -1,2 +1,2 @@
 # charged-lepton-flavor-number-violation-project
-Code and analysis tools developed during the CERN Summer Student Program 2024 for analyzing particle collision data, focusing on electron and muon reconstruction using the ROOT framework interfaced using python
+Code and analysis tools developed during the CERN Summer Student Program 2024 for analyzing particle collision data, focusing on analysing both generated and reconstructed electron and muon to calculate illustrate different histograms like the transverse momenta, the pseudorapidity, the phi angle as well as efficiency using the ROOT framework interfaced using python, after extracting them from .root files.
